@@ -88,6 +88,3 @@ To run the application locally, make sure you have Python installed. Then follow
 
 ## License
 This project is licensed under the MIT License. See the License file for details.
-
-
-
